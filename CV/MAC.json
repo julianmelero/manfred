@@ -1,0 +1,479 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Julián",
+      "surnames": "Melero Hidalgo",
+      "title": "Desarrollador Web, Data Scientist",
+      "description": "Marido de una fantástica mujer. Apasionado por la tecnología, sobre todo el desarrollo web y el análisis de datos. Disfruto de largas conversaciones trascendentales, aunque no se llegue a ninguna conclusión (siempre se aprende).\nMe gusta #NuncaPararDeAprender. Lo mejor de tomar una mala decisión es que aprendes, y en caso de acertar, lo que más me gusta es que también se aprende.\nNo sé si te importará, pero soy muy 6. (El del eneagrama).",
+      "avatar": {
+        "alt": "JulianMelero_header.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/8fee5eab-88a8-4276-85fa-90cb18d28eaa_julianmelero_header.png"
+      },
+      "location": {
+        "notes": "Valencia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://es.linkedin.com/in/jmelerohidalgo"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/julianmelero"
+      },
+      {
+        "type": "other",
+        "URL": "https://julianmelero.com"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/JulianMelero_"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Frases favoritas",
+        "fact": "- Lo más importante es que lo más importante sea lo más importante (Victor Küppers)\n- En todo ser humano hay grandeza (Dr. Mario Alonso Puig)\n- Menos es más\n- #NuncaParesDeApreder (Platzi)"
+      },
+      {
+        "topic": "¿Qué me hace feliz?",
+        "fact": "Estar con la gente a la que quiero. Ayudar a los demás. Mantener una conversación profunda sobre temas que importen y por supuesto, la tecnología."
+      },
+      {
+        "topic": "Mi primer programa",
+        "fact": "Script en Batch en MS-DOS, con un procesador Intel 80486 "
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Power Case Ibérica S.L.",
+          "URL": "https://www.powercase.es"
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2015-10-01",
+            "finishDate": "2021-02-01",
+            "challenges": [
+              {
+                "description": "Analysis and development of exclusive CRM for company specifications. http://crm.pcigest.es \nWeb App with connection to commercial ERP to extract information.\nManage and configure the server to deploy the web application."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MVC",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CSD",
+          "URL": "https://www.linkedin.com/company/csd/?originalSubdomain=es"
+        },
+        "roles": [
+          {
+            "name": "Programmer / Analyst",
+            "startDate": "2008-05-01",
+            "finishDate": "2009-06-01",
+            "challenges": [
+              {
+                "description": "Development and maintenance of a program for Official Associations of Technical Architects. SICAP."
+              }
+            ],
+            "competences": [
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gesis Digital S.L.",
+          "URL": "https://www.gesis.es"
+        },
+        "roles": [
+          {
+            "name": "Programmer / Analyst",
+            "startDate": "2006-03-01",
+            "finishDate": "2008-05-01",
+            "challenges": [
+              {
+                "description": "Development and maintenance of our own ERP for the retail and construction sector."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Delphi",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jobers y Asociados, S.L.",
+          "URL": "https://www.jobersweb.com"
+        },
+        "roles": [
+          {
+            "name": "Programmer",
+            "startDate": "2005-10-01",
+            "finishDate": "2006-03-01",
+            "challenges": [
+              {
+                "description": "New features for proprietary ERP. Stack: Power Builder"
+              }
+            ],
+            "competences": [
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Proyectos en IA y ciencia de datos ( también con PLN)",
+          "description": "Siempre me ha encantado el mundo de la ciencia ficción y la tecnología, lo que me llevó a querer aprender sobre IA, Ciencia de Datos y Big Data. Para mí ha sido un reto aprender cosas tan distintas a las habituales, pero he de decir que me enamoré de este fabuloso mundo.",
+          "URL": "https://deepnote.com/@julianmelero_"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-06-01",
+        "relatedCompetences": [
+          {
+            "name": "Hadoop",
+            "type": "technology"
+          },
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "Keras",
+            "type": "technology"
+          },
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "PySpark",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Scikit-learn",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Inteligencia Artificial"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "Valencian"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pentaho",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Especialista en Inteligencia Artificial y Big Data",
+        "startDate": "2021-10-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "CIPFP Mislata",
+          "URL": "https://www.fpmislata.com"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Fastapi",
+            "type": "technology"
+          },
+          {
+            "name": "Hadoop",
+            "type": "technology"
+          },
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "Keras",
+            "type": "technology"
+          },
+          {
+            "name": "MatPlotlib",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Power BI",
+            "type": "technology"
+          },
+          {
+            "name": "PySpark",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Escuela de Data Science e Inteligencia Artificial",
+        "startDate": "2021-06-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/julianmelero/"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Web",
+        "startDate": "2017-01-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "URL": "https://fp.uoc.fje.edu"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
+        "startDate": "2002-06-01",
+        "finishDate": "2005-06-01",
+        "institution": {
+          "name": "I.E.S. José Rodrigo Botet"
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Delphi",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://es.linkedin.com/in/jmelerohidalgo"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Fastapi",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Jupyter",
+          "type": "technology"
+        },
+        {
+          "name": "Keras",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
