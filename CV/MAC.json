@@ -49,6 +49,19 @@
         "topic": "Mi primer programa",
         "fact": "Script en Batch en MS-DOS, con un procesador Intel 80486 "
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Los 7 hábitos de la gente altamente eficiente",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Stephen R.",
+            "surnames": "Covey",
+            "title": "Author"
+          }
+        ]
+      }
     ]
   },
   "experience": {
