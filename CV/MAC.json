@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/8fee5eab-88a8-4276-85fa-90cb18d28eaa_julianmelero_header.png"
       },
       "location": {
-        "notes": "Valencia"
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
@@ -66,6 +68,63 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Voltereta"
+        },
+        "roles": [
+          {
+            "name": "Backend Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "TypeORM",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Power Case Ibérica S.L.",
@@ -270,6 +329,12 @@
       },
       {
         "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -282,13 +347,7 @@
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -300,13 +359,13 @@
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Fastapi",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -354,6 +413,10 @@
             "type": "technology"
           },
           {
+            "name": "Microsoft Power BI",
+            "type": "technology"
+          },
+          {
             "name": "NodeJS",
             "type": "technology"
           },
@@ -363,10 +426,6 @@
           },
           {
             "name": "Pandas",
-            "type": "technology"
-          },
-          {
-            "name": "Power BI",
             "type": "technology"
           },
           {
@@ -486,6 +545,10 @@
           "name": "JAVA",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Scientist"
       ]
     }
   }
