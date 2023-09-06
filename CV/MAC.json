@@ -314,6 +314,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -589,6 +595,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
       {
         "name": "JavaScript",
         "type": "technology"
