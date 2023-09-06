@@ -78,6 +78,11 @@
           {
             "name": "Backend Developer",
             "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "Desarrollador Backend de la red social Unfiltered.\nExperiencia en Nestjs, Flutter, TypeScript, Mongo, Postgres y Cassandra.\nUso de ORM's mongoose y TypeORM.\nMetodologías Ágiles (SCRUM)\nUso de outscraper para recogida masiva de datos de Google Maps.\nAWS: API Gateway, S3, Lambda, ECR/ECS, EC2.\nData Science para obtener datos y analizarlos con Pandas y Jupyter Notebook.\nPrincipios Clean Code"
+              }
+            ],
             "competences": [
               {
                 "name": "Github",
