@@ -562,6 +562,10 @@
         {
           "name": "NodeJS",
           "type": "technology"
+        },
+        {
+          "name": "nestJS",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
