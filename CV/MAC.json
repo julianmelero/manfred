@@ -46,6 +46,18 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "Superpoderes del éxito para gente normal",
+        "type": "reading",
+        "summary": "Si de verdad quieres conseguir tus objetivos por muy locos que sean, empieza por leer este libro.",
+        "authors": [
+          {
+            "name": "Mago",
+            "surnames": "More",
+            "title": "Author"
+          }
+        ]
       }
     ],
     "relevantLinks": [
@@ -622,6 +634,9 @@
     "bookmarks": [
       {
         "name": "Los 7 hábitos de la gente altamente efectiva"
+      },
+      {
+        "name": "Superpoderes del éxito para gente normal"
       }
     ]
   }
