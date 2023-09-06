@@ -588,6 +588,12 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "nestJS",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Más que trabajo, mejor llamarlo misión, al menos ¡suena mejor!\nMe encantaría ser parte de un equipo con un proyecto que me apasione, en el que pueda involucrarme como científico de datos, haciendo Machine Learning y por qué no desarrollo backend para darle vida.\n\nTambién me encanta el desarrollo web backend con JS o Python, en un proyecto apasionante😍\n\nMe parece casi mágico usar la tecnología para \"predecir\" el futuro.\n ",
     "goodPractices": "Solid. Sobre todo hablar con los compañeros sobre por qué, dónde y cómo hacer lo que tengamos que hacer.",
     "bookmarks": [
