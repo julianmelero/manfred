@@ -1,43 +1,26 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Julián",
       "surnames": "Melero Hidalgo",
-      "title": "Mid Backend / Data Scientist",
-      "description": "Marido de una fantástica mujer. Apasionado por la tecnología, sobre todo el desarrollo web y el análisis de datos. Disfruto de largas conversaciones trascendentales, aunque no se llegue a ninguna conclusión (siempre se aprende).\nMe gusta #NuncaPararDeAprender. Lo mejor de tomar una mala decisión es que aprendes, y en caso de acertar, lo que más me gusta es que también se aprende.\nNo sé si te importará, pero soy muy 6. (El del eneagrama).",
+      "title": "Backend Developer",
+      "description": "Marido de una fantástica mujer. Apasionado por la tecnología, sobre todo el desarrollo web y el análisis de datos. Disfruto de largas conversaciones trascendentales, aunque no se llegue a ninguna conclusión (siempre se aprende).\nMe gusta #NuncaPararDeAprender. Lo mejor de tomar una mala decisión es que aprendes, y en caso de acertar, lo que más me gusta es que también se aprende.",
       "avatar": {
-        "alt": "JulianMelero_header.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/8fee5eab-88a8-4276-85fa-90cb18d28eaa_julianmelero_header.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/8fee5eab-88a8-4276-85fa-90cb18d28eaa_julianmelero_header.png",
+        "alt": "JulianMelero_header.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
         "region": "Comunidad Valenciana",
         "municipality": "Valencia"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://es.linkedin.com/in/jmelerohidalgo"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/julianmelero"
-      },
-      {
-        "type": "other",
-        "URL": "https://julianmelero.com"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/JulianMelero_"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Frases favoritas",
@@ -63,6 +46,12 @@
             "title": "Author"
           }
         ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://julianmelero.com"
       }
     ]
   },
@@ -275,6 +264,9 @@
         },
         "type": "achievement",
         "publishingDate": "2022-06-01",
+        "tags": [
+          "Inteligencia Artificial"
+        ],
         "relatedCompetences": [
           {
             "name": "Hadoop",
@@ -304,9 +296,6 @@
             "name": "Scikit-learn",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Inteligencia Artificial"
         ]
       }
     ]
@@ -314,22 +303,42 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "CA",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Valencian"
+        "name": "ES",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -347,46 +356,39 @@
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Pentaho",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Escuela de Data Science e Inteligencia Artificial",
+        "startDate": "2021-06-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/julianmelero/"
+        },
+        "finishDate": "2022-04-01"
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Especialista en Inteligencia Artificial y Big Data",
         "startDate": "2021-10-01",
-        "finishDate": "2022-06-01",
         "institution": {
           "name": "CIPFP Mislata",
           "URL": "https://www.fpmislata.com"
         },
+        "finishDate": "2022-06-01",
         "linkedCompetences": [
           {
             "name": "Docker",
@@ -439,46 +441,14 @@
         ]
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Escuela de Data Science e Inteligencia Artificial",
-        "startDate": "2021-06-01",
-        "finishDate": "2022-04-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/julianmelero/"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Técnico Superior en Desarrollo de Aplicaciones Web",
-        "startDate": "2017-01-01",
-        "finishDate": "2019-06-01",
-        "institution": {
-          "name": "Universitat Oberta de Catalunya",
-          "URL": "https://fp.uoc.fje.edu"
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
         "startDate": "2002-06-01",
-        "finishDate": "2005-06-01",
         "institution": {
           "name": "I.E.S. José Rodrigo Botet"
         },
+        "finishDate": "2005-06-01",
         "linkedCompetences": [
           {
             "name": "C++",
@@ -501,6 +471,47 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Web",
+        "startDate": "2017-01-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "URL": "https://fp.uoc.fje.edu"
+        },
+        "finishDate": "2019-06-01",
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -508,8 +519,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://es.linkedin.com/in/jmelerohidalgo"
+          "URL": "https://es.linkedin.com/in/jmelerohidalgo",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/julianmelero",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/JulianMelero_",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "hola@julianmelero.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "677554318",
+          "countryCode": "+34"
         }
       ]
     },
@@ -550,6 +578,16 @@
         "Backend Developer",
         "Data Scientist"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Más que trabajo, mejor llamarlo misión, al menos ¡suena mejor!\nMe encantaría ser parte de un equipo con un proyecto que me apasione, en el que pueda involucrarme como científico de datos, haciendo Machine Learning y por qué no desarrollo backend para darle vida.\n\nTambién me encanta el desarrollo web backend con JS o Python, en un proyecto apasionante😍\n\nMe parece casi mágico usar la tecnología para \"predecir\" el futuro.\n ",
+    "goodPractices": "Solid. Sobre todo hablar con los compañeros sobre por qué, dónde y cómo hacer lo que tengamos que hacer.",
+    "bookmarks": [
+      {
+        "name": "Los 7 hábitos de la gente altamente efectiva"
+      }
+    ]
   }
 }
