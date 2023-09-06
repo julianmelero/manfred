@@ -351,6 +351,12 @@
       },
       {
         "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
