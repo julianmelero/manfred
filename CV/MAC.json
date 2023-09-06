@@ -556,10 +556,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Fastapi",
-          "type": "technology"
-        },
-        {
           "name": "JavaScript",
           "type": "technology"
         },
@@ -596,6 +592,10 @@
     "mainStackTechs": [
       {
         "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
         "type": "technology"
       },
       {
