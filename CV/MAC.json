@@ -368,12 +368,6 @@
       },
       {
         "skill": {
-          "name": "Pentaho",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -602,10 +596,6 @@
     "mainStackTechs": [
       {
         "name": "AWS",
-        "type": "technology"
-      },
-      {
-        "name": "Docker",
         "type": "technology"
       },
       {
