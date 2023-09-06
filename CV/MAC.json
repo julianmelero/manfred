@@ -588,8 +588,7 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer",
-        "Data Scientist"
+        "Backend Developer"
       ]
     },
     "status": "openToOffers"
@@ -598,6 +597,10 @@
     "mainStackTechs": [
       {
         "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
         "type": "technology"
       },
       {
