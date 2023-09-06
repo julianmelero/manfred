@@ -339,12 +339,6 @@
       },
       {
         "skill": {
-          "name": "Fastapi",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Flutter",
           "type": "technology"
         }
