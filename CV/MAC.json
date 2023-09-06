@@ -365,6 +365,12 @@
           "name": "Python",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
