@@ -560,19 +560,7 @@
           "type": "technology"
         },
         {
-          "name": "Jupyter",
-          "type": "technology"
-        },
-        {
-          "name": "Keras",
-          "type": "technology"
-        },
-        {
           "name": "NodeJS",
-          "type": "technology"
-        },
-        {
-          "name": "Python",
           "type": "technology"
         }
       ],
