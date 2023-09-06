@@ -333,12 +333,6 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Docker",
           "type": "technology"
         }
@@ -616,10 +610,6 @@
     "mainStackTechs": [
       {
         "name": "AWS",
-        "type": "technology"
-      },
-      {
-        "name": "Docker",
         "type": "technology"
       },
       {
