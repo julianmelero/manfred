@@ -59,7 +59,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "Voltereta"
+          "name": "Dreamland Office, S.L.",
+          "URL": "https://onelife.social/d/"
         },
         "roles": [
           {
@@ -595,6 +596,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
       {
         "name": "Docker",
         "type": "technology"
