@@ -590,6 +590,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
         "name": "nestJS",
         "type": "technology"
       }
