@@ -594,6 +594,10 @@
         "type": "technology"
       },
       {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
         "name": "nestJS",
         "type": "technology"
       }
