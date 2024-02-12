@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,14 +11,13 @@
       "title": "Backend Developer",
       "description": "Soy un profesional con una sólida trayectoria en el desarrollo de aplicaciones web, con un enfoque especializado en el Backend. A lo largo de mi carrera, he tenido el privilegio de trabajar en diversos proyectos, tanto en equipos multidisciplinarios como en colaboraciones autónomas.\n\n¿Qué desafíos estoy buscando?\n\nMi pasión se centra en el desarrollo Backend, especialmente en tecnologías como Node.js y su marco de trabajo Nest.js. Me emociona la idea de participar en proyectos que desafíen mis habilidades y me permitan seguir creciendo como desarrollador.\n\nAdemás, mi interés por la Inteligencia Artificial me lleva a buscar proyectos relacionados con esta fascinante disciplina. Creo que la combinación de la tecnología Backend y la Inteligencia Artificial tiene el potencial de impulsar soluciones innovadoras en una amplia gama de aplicaciones.\n\nExplora mis proyectos:\n\n- Echa un vistazo a mis repositorios en GitHub (https://github.com/julianmelero) para ver algunas de mis contribuciones y proyectos de desarrollo.\n\n- Encuentra proyectos relacionados con Data Science y análisis de datos en mi cuenta de Deepnote (https://deepnote.com/@julianmelero_). Aquí podrás explorar mi pasión por la exploración de datos y el aprendizaje automático.\n\nEstoy emocionado por la oportunidad de dar vida a nuevos proyectos, colaborar con profesionales apasionados y enfrentar desafíos que impulsen la innovación. ¡Si tienes ideas o proyectos interesantes, no dudes en conectarte conmigo! Juntos podemos crear soluciones que marquen la diferencia.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/8fee5eab-88a8-4276-85fa-90cb18d28eaa_julianmelero_header.png",
-        "alt": "JulianMelero_header.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/12/a0247b61-b520-41d7-b908-e39c9ea9c186_linkedin-photo-7606.linkedin-photo-7606",
+        "alt": "24/02/12/a0247b61-b520-41d7-b908-e39c9ea9c186_linkedin-photo-7606.linkedin-photo-7606"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJh14zFWtJYA0RWdoxvb4Vtuk)",
         "country": "España",
-        "region": "Comunidad Valenciana",
-        "municipality": "Valencia"
+        "region": "Comunidad Valenciana"
       }
     },
     "interestingFacts": [
@@ -50,7 +49,6 @@
       {
         "title": "Superpoderes del éxito para gente normal",
         "type": "reading",
-        "summary": "Si de verdad quieres conseguir tus objetivos por muy locos que sean, empieza por leer este libro.",
         "authors": [
           {
             "name": "Mago",
@@ -62,217 +60,24 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jmelerohidalgo"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/julianmelero"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/JulianMelero_"
+      },
+      {
         "type": "other",
         "URL": "https://julianmelero.com"
       }
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Publicidad Kalepolin S.L.",
-          "URL": "https://onelife.social/d/"
-        },
-        "roles": [
-          {
-            "name": "Backend Developer",
-            "startDate": "2022-09-01",
-            "challenges": [
-              {
-                "description": "Como líder del equipo de desarrollo backend en una startup en crecimiento, desempeño un papel fundamental en el éxito de la aplicación móvil Unfiltered. Utilizando tecnologías punteras y metodologías ágiles, logré avances significativos en el desarrollo y rendimiento de la plataforma.\n\nLogros Destacados:\n\n- Liderazgo en el Desarrollo: Encabezo la creación de microservicios críticos utilizando NestJS, Postgresql y Cassandra. Una de mis contribuciones más destacadas fue la implementación de un chat en tiempo real dentro de la aplicación, aprovechando websockets para mejorar la interacción de los usuarios.\n\n- Optimización en la Nube: Implemento con éxito soluciones en la nube de AWS, incluyendo API Gateway, ECR, ECS, Lambda, Amazon Keyspaces, CloudFront y S3. Estas implementaciones aumentaron la escalabilidad y el rendimiento de la aplicación, permitiendo un crecimiento sin problemas.\n\n- Análisis de Datos Avanzado: Utilizo scripts en Python con Pandas para limpiar datos masivos procedentes de Outscrapper, asegurando la calidad de los datos antes de su integración en la aplicación. Además, realicé análisis de datos previos a la ingesta mediante Jupyter Notebooks, proporcionando información crucial para la toma de decisiones estratégicas.\n\nHabilidades Técnicas:\n\n- Tecnologías: NestJS, TypeScript, Postgresql, Cassandra\n- Cloud Computing: AWS (API Gateway, ECR, ECS, Lambda, Amazon Keyspaces, CloudFront, S3)\n- Metodologías Ágiles: SCRUM\n- Limpieza y Análisis de Datos: Python, Pandas, Jupyter Notebooks\n\nMi enfoque en la calidad, la eficiencia y la innovación tecnológica ha sido fundamental para el progreso de la empresa y el éxito continuo de la aplicación Unfiltered. Mi experiencia en liderar equipos y proyectos técnicos demuestra mi capacidad para aportar un valor significativo a futuros desafíos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jupyter",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Mongoose",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "Pandas",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "TypeORM",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Power Case Ibérica S.L.",
-          "URL": "https://www.powercase.es"
-        },
-        "roles": [
-          {
-            "name": "Full-stack Developer",
-            "startDate": "2015-10-01",
-            "finishDate": "2021-02-01",
-            "challenges": [
-              {
-                "description": "Como Analista y Desarrollador de CRM, lideré la creación y optimización de un sistema CRM personalizado que sirvió como herramienta fundamental para conectar y coordinar diversas áreas de la empresa. Mi rol abarcó una variedad de responsabilidades críticas, destacando mis logros en el diseño de bases de datos, la construcción de aplicaciones web y el desarrollo de soluciones de integración.\n\nLogros Destacados:\n\n- Diseño de Bases de Datos: Fui responsable del diseño y la implementación de bases de datos sólidas y eficientes que respaldaron la gestión de clientes y la toma de decisiones estratégicas.\n\n- Desarrollo de Aplicaciones Web: Construí aplicaciones web personalizadas que mejoraron la eficiencia operativa y la colaboración entre los departamentos de la empresa. Estas aplicaciones ayudaron a automatizar procesos internos y a mejorar la comunicación.\n\n- Creación de API para Vendedores: Diseñé y desarrollé una API dedicada para el equipo de ventas, lo que facilitó la gestión de clientes potenciales y el seguimiento de ventas. Esto mejoró significativamente la productividad del equipo de ventas.\n\n- ETL para Integración de Datos: Implementé un proceso de ETL para transferir datos desde el ERP actual a un nuevo ERP comercial, asegurando una migración de datos fluida y precisa.\n\n- Web Scraping para Uso Comercial: Utilicé Python y técnicas de web scraping para recopilar datos valiosos de fuentes externas, lo que proporcionó información estratégica para la toma de decisiones comerciales.\n\nHabilidades Técnicas:\n\n- Tecnologías: PHP, NodeJS, ExpressJS, MySQL, Python.\n\nMi experiencia en este proyecto demuestra mi capacidad para diseñar soluciones tecnológicas personalizadas que aborden las necesidades específicas de la empresa y mejoren la eficiencia operativa. Mi enfoque en la calidad de las bases de datos, el desarrollo de aplicaciones web y la integración de sistemas ha tenido un impacto positivo en la empresa y ha contribuido al éxito de los proyectos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "MVC",
-                "type": "technology"
-              },
-              {
-                "name": "MariaDB",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "CSD",
-          "URL": "https://www.linkedin.com/company/csd/?originalSubdomain=es"
-        },
-        "roles": [
-          {
-            "name": "Programmer / Analyst",
-            "startDate": "2008-05-01",
-            "finishDate": "2009-06-01",
-            "challenges": [
-              {
-                "description": "Como Desarrollador de Software, tuve el honor de contribuir al mantenimiento y la mejora continua del programa utilizado por los Colegios de Arquitectos Técnicos de España. Mi enfoque principal fue la programación y el desarrollo de nuevas funciones utilizando la tecnología Power Builder. Esta experiencia me permitió trabajar en un entorno colaborativo y utilizar herramientas de control de versiones como SVN.\n\nLogros Destacados:\n\n- Desarrollo de Funcionalidades Clave: Fui responsable de crear y mantener nuevas funciones en el programa que mejoraron la eficiencia y la capacidad de respuesta del sistema. Mis contribuciones ayudaron a optimizar la gestión de datos y la interacción con los usuarios.\n\n- Trabajo en Equipo: Trabajar en estrecha colaboración con un equipo multidisciplinario fue esencial para el éxito del proyecto. Participé activamente en reuniones de equipo, intercambiando ideas y soluciones para garantizar un desarrollo fluido y eficaz.\n\n- Control de Versiones con SVN: Utilicé SVN (Subversion) para gestionar el control de versiones del código fuente, lo que aseguró la integridad y el seguimiento de cambios en el proyecto. Esto facilitó la colaboración con otros miembros del equipo y la implementación de mejoras de manera organizada.\n\nMi experiencia como desarrollador de software en este contexto me permitió perfeccionar mis habilidades técnicas y de trabajo en equipo. Contribuí al éxito continuo del programa utilizado por los Colegios de Arquitectos Técnicos de España, lo que demostró mi capacidad para trabajar en proyectos críticos y colaborativos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "SQL",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Gesis Digital S.L.",
-          "URL": "https://www.gesis.es"
-        },
-        "roles": [
-          {
-            "name": "Programmer / Analyst",
-            "startDate": "2006-03-01",
-            "finishDate": "2008-05-01",
-            "challenges": [
-              {
-                "description": "\nAnalista / ProgramadorAnalista / Programador\nGesis Digital S.L. · Jornada completaGesis Digital S.L. · Jornada completa\nmar. 2006 - may. 2008 · 2 años 3 mesesmar. 2006 - may. 2008 · 2 años 3 meses\nDepartamento de programaciónDepartamento de programación\nComo Desarrollador de Software, tuve el desafío de mantener y mejorar el sistema ERP utilizado en las áreas de venta y construcción. Mi enfoque se centró en el análisis y desarrollo de nuevas funcionalidades, así como en la corrección de errores para garantizar un rendimiento óptimo del sistema. Trabajé con la tecnología Delphi 5 y colaboré activamente en un entorno de trabajo en equipo.\n\nLogros Destacados:\n\n- Mejora de Funcionalidades Clave: Contribuí al desarrollo y mejora de funcionalidades críticas en el ERP, lo que resultó en una mayor eficiencia en las áreas de ventas y construcción. Estas mejoras ayudaron a optimizar los procesos internos y a satisfacer las necesidades de los usuarios.\n\n- Análisis y Resolución de Errores: Identifiqué y corregí eficazmente errores en el sistema, asegurando su funcionamiento sin interrupciones. Mi capacidad para analizar problemas y proporcionar soluciones rápidas fue esencial para mantener la estabilidad del ERP.\n\n- Dominio de Delphi 5: Utilicé la tecnología Delphi 5 para desarrollar y mantener el software ERP. Mi experiencia en esta plataforma me permitió crear soluciones robustas y escalables.\n\n- Colaboración en Equipo: Trabajé en estrecha colaboración con colegas y equipos multidisciplinarios para lograr los objetivos del proyecto. Participé activamente en reuniones de equipo, compartiendo conocimientos y fomentando un ambiente de trabajo colaborativo.\n\nMi experiencia como desarrollador de software en este entorno me permitió perfeccionar mis habilidades técnicas y mi capacidad para trabajar en equipo. Contribuí al éxito continuo del ERP en las áreas de venta y construcción, demostrando mi compromiso con la mejora constante y la excelencia en el desarrollo de software."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Delphi",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Jobers y Asociados, S.L.",
-          "URL": "https://www.jobersweb.com"
-        },
-        "roles": [
-          {
-            "name": "Programmer",
-            "startDate": "2005-10-01",
-            "finishDate": "2006-03-01",
-            "challenges": [
-              {
-                "description": "New features for proprietary ERP. Stack: Power Builder"
-              }
-            ],
-            "competences": [
-              {
-                "name": "SQL",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "publicArtifacts": [
       {
         "details": {
@@ -322,14 +127,17 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -535,7 +343,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://es.linkedin.com/in/jmelerohidalgo",
+          "URL": "https://linkedin.com/in/jmelerohidalgo",
           "type": "linkedin"
         },
         {
@@ -549,12 +357,6 @@
       ],
       "contactMails": [
         "hola@julianmelero.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "677554318",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
