@@ -81,11 +81,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Dreamland Office",
+          "name": "Dots Memories",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/12/2bf333c0-6a5c-4232-a85a-512ce2b4fe77_linkedin-photo-7606.linkedin-photo-7606",
             "alt": "24/02/12/2bf333c0-6a5c-4232-a85a-512ce2b4fe77_linkedin-photo-7606.linkedin-photo-7606"
-          }
+          },
+          "URL": "https://dotstheapp.com"
         },
         "roles": [
           {
@@ -482,7 +483,7 @@
       ],
       "discardedCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       ],
