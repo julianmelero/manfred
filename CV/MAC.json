@@ -96,6 +96,40 @@
               {
                 "description": "Como líder del equipo de desarrollo backend en una startup en crecimiento, desempeño un papel fundamental en el éxito de la aplicación móvil. Utilizando tecnologías punteras y metodologías ágiles, logré avances significativos en el desarrollo y rendimiento de la plataforma.\n\nLogros Destacados:\n\n- Desarrollo: Creación de microservicios críticos utilizando Node.js, NestJS, Serverless Framework, Firebase y Postgresql. Uso de colas Amazon SQS. Despliegue automático de cada uno de los microservicios mediante GitHub Actions, e implementación en API Gateway (Swagger).\n\n- Optimización en la Nube: Implemento con éxito soluciones en la nube de AWS, incluyendo API Gateway, ECR, ECS, Lambda, Amazon Keyspaces, CloudFront y S3. Estas implementaciones aumentaron la escalabilidad y el rendimiento de la aplicación, permitiendo un crecimiento sin problemas.\n\n- Análisis de Datos Avanzado: Utilizo scripts en Python con Pandas para limpiar datos masivos procedentes de Outscrapper, asegurando la calidad de los datos antes de su integración en la aplicación. Además, realicé análisis de datos previos a la ingesta mediante Jupyter Notebooks, proporcionando información crucial para la toma de decisiones estratégicas.\n\nHabilidades Técnicas:\n\n- Tecnologías: Node.js, Nest.js, TypeScript, Serverless Framework, Postgresql, Cassandra\n- Cloud Computing: AWS (API Gateway, ECR, ECS, Lambda, Amazon Keyspaces, CloudFront, S3)\n- Metodologías Ágiles: SCRUM\n\nMi enfoque en la calidad, la eficiencia y la innovación tecnológica ha sido fundamental para el progreso de la empresa y el éxito continuo."
               }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS Aurora",
+                "type": "technology"
+              },
+              {
+                "name": "AWS Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Serverless",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
+                "type": "technology"
+              }
             ]
           }
         ]
